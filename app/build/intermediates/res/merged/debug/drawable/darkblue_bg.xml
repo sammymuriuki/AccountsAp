@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Adding border layers simulating drop shadow -->
+    <item>
+        <shape>
+
+            <padding android:top="3dp" android:right="0dp" android:bottom="0dp" android:left="0dp" />
+            <solid android:color="#1a2e47" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <padding android:top="2dp" android:right="0dp" android:bottom="0dp" android:left="0dp" />
+            <solid android:color="#2b4c72" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <padding android:top="1dp" android:right="0dp" android:bottom="0dp" android:left="0dp" />
+            <solid android:color="#39608e" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <padding android:top="1dp" android:right="0dp" android:bottom="0dp" android:left="0dp" />
+            <solid android:color="#3d6391" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <padding android:top="1dp" android:right="0dp" android:bottom="0dp" android:left="0dp" />
+            <solid android:color="#406899" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <solid android:color="@color/darkskyblue" />
+        </shape>
+    </item>
+
+</layer-list>

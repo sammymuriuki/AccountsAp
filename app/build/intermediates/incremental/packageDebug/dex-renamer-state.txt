@@ -1,0 +1,7 @@
+#Tue Apr 11 14:31:57 EAT 2017
+base.0=E\:\\Android\\Insure\\InsureMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a7088514619dd73939eee26cabec65e02da9bb58
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Android\\Insure\\InsureMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c698179e82f9351e131a86da0ee099a4083f7cf4\\classes.dex
+base.1=E\:\\Android\\Insure\\InsureMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c698179e82f9351e131a86da0ee099a4083f7cf4
+file.0=E\:\\Android\\Insure\\InsureMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a7088514619dd73939eee26cabec65e02da9bb58\\classes.dex

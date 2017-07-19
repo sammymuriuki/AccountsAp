@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\53d50f57383882564d8d224dac19e032693f02c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3464b5701495deb4544876f2d3a729c6f3345068\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\863f133b9c45be50c3f1cc9f7d4f8c7d3ca64244\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_136e4be4e90d405b258102caf365465ad98667e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\3747a218b02e80ef4b77da54ddd66df729b116bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4911d2239d39c418578743f90b2e6ba8a1975e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Insure\InsureMe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a7088514619dd73939eee26cabec65e02da9bb58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\a65769e0bdbfcfb54a15d836aef03743ee584044\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78e02247d11231bd1d3bfcb9ca5931cca27f6752\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_d2854a7e3d8c7649f89621d3ac13b2103a53abd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\1e4af6bcaaa9b5383ecfc78e8bcf2cdb89959cd7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0632d8b72481260c72fdd8a0eb9fd89e69d17d2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\22f62a624e673d2b7e3006b0d2860d80f22333ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f1c43a66067a12a46965a9b8369e1ebdbafa4e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\49519298588f1e2c0c7190e121776910989e1ba9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3225851b5e8e18cf18577f001c0c3e93071ebfa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\9b381b53705a719070790fa6e427ff22ee51668f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8a9c4bc3bb399cc53eac71b375be2a096ff7efb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\2fe9130d60c9232fe72fd4017fc05e433dc52772\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2e53326f0ee21a13e6ab6c058e8ca14c9ac9e6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\9bc23bf9c8ad24cb3cfe3406b8d3ae623a948da4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_134656ac057d485ec833b6f6398be9d6df7c44c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\4ab4217be48d9806ba0874a66fb7982704cf7ee6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b051d21750d5e951fcc18b03c8afc7ac12b068d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Insure\InsureMe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5536f13d79ea173d5355f31ae3231033ef225e7a">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c698179e82f9351e131a86da0ee099a4083f7cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\0e64b913383d2718fb8fdcbbad3dfed148561e7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0f49d55fe935451d63801342b3b6fee405742d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\8ccb6c7a3fb4a3e07bc05465da797bd83c9acd09\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d46c3dceb36c933a14601740d98618ab66ce33f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Android\Insure\InsureMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_765acbcefc1c012573eba0d025a56ceb36568ae2\classes.dex" />
+    </item>
+
+</items>

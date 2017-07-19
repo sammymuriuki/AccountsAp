@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.android\build-cache\3747a218b02e80ef4b77da54ddd66df729b116bf\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\8ccb6c7a3fb4a3e07bc05465da797bd83c9acd09\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\863f133b9c45be50c3f1cc9f7d4f8c7d3ca64244\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\49519298588f1e2c0c7190e121776910989e1ba9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\9bc23bf9c8ad24cb3cfe3406b8d3ae623a948da4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\22f62a624e673d2b7e3006b0d2860d80f22333ee\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\0e64b913383d2718fb8fdcbbad3dfed148561e7f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\9b381b53705a719070790fa6e427ff22ee51668f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\4ab4217be48d9806ba0874a66fb7982704cf7ee6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\a65769e0bdbfcfb54a15d836aef03743ee584044\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\2fe9130d60c9232fe72fd4017fc05e433dc52772\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\53d50f57383882564d8d224dac19e032693f02c1\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.admin.insureme.MainActivity
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.admin.insureme.SplashScreen
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:configChanges
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:20:13-74
+	android:theme
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:21:13-51
+	android:name
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.MAIN
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:22:13-26:29
+category#android.intent.category.MAIN
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:25:17-73
+	android:name
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:25:27-70
+activity#com.example.admin.insureme.RenewPolicy
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:28:9-31:59
+	android:label
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:30:13-64
+	android:theme
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:29:13-40
+activity#com.example.admin.insureme.GetQuote
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:32:9-46
+	android:name
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:32:19-43
+activity#com.example.admin.insureme.MyAccount
+ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml:33:19-44
+uses-sdk
+INJECTED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.android\build-cache\3747a218b02e80ef4b77da54ddd66df729b116bf\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\8ccb6c7a3fb4a3e07bc05465da797bd83c9acd09\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\863f133b9c45be50c3f1cc9f7d4f8c7d3ca64244\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\49519298588f1e2c0c7190e121776910989e1ba9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\9bc23bf9c8ad24cb3cfe3406b8d3ae623a948da4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.android\build-cache\1e4af6bcaaa9b5383ecfc78e8bcf2cdb89959cd7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\22f62a624e673d2b7e3006b0d2860d80f22333ee\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\0e64b913383d2718fb8fdcbbad3dfed148561e7f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\9b381b53705a719070790fa6e427ff22ee51668f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\4ab4217be48d9806ba0874a66fb7982704cf7ee6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\a65769e0bdbfcfb54a15d836aef03743ee584044\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\2fe9130d60c9232fe72fd4017fc05e433dc52772\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\53d50f57383882564d8d224dac19e032693f02c1\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\8ccb6c7a3fb4a3e07bc05465da797bd83c9acd09\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Insure\InsureMe\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\8ccb6c7a3fb4a3e07bc05465da797bd83c9acd09\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\863f133b9c45be50c3f1cc9f7d4f8c7d3ca64244\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\49519298588f1e2c0c7190e121776910989e1ba9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\9bc23bf9c8ad24cb3cfe3406b8d3ae623a948da4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.android\build-cache\1e4af6bcaaa9b5383ecfc78e8bcf2cdb89959cd7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\22f62a624e673d2b7e3006b0d2860d80f22333ee\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\0e64b913383d2718fb8fdcbbad3dfed148561e7f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\9b381b53705a719070790fa6e427ff22ee51668f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\4ab4217be48d9806ba0874a66fb7982704cf7ee6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\a65769e0bdbfcfb54a15d836aef03743ee584044\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\2fe9130d60c9232fe72fd4017fc05e433dc52772\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\53d50f57383882564d8d224dac19e032693f02c1\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\8ccb6c7a3fb4a3e07bc05465da797bd83c9acd09\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\8ccb6c7a3fb4a3e07bc05465da797bd83c9acd09\output\AndroidManifest.xml:26:9-47

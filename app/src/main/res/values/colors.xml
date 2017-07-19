@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="darkskyblue">#4873A6</color>
+    <color name="skyblue">#4C98CF</color>
+    <color name="very_dark_blue">#334a70</color>
+    <color name="fadedpurple">#595386</color>
+    <color name="bluishpurple">#4F4D92</color>
+    <color name="very_dark_purple">#242349</color>
+</resources>

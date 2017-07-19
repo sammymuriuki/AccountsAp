@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/home_screen"
+    android:orientation="vertical"
+    >
+
+    <ExpandableListView
+        android:id="@+id/renew"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null"
+        android:dividerHeight="0dp">
+    </ExpandableListView>
+    <ListView
+        android:id="@+id/renewpolicy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null"
+        android:dividerHeight="0dp">
+    </ListView>
+</LinearLayout>
